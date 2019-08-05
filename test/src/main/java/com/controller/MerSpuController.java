@@ -13,4 +13,7 @@ public class MerSpuController {
 	public String searchSpu(String name) {
 		return "search" + name + "suc";
 	}
+	public String searchSpuV2(String name) {
+		return "search" + name + "suc v2";
+	}
 }
