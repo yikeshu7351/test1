@@ -11,6 +11,7 @@ public class MerSpuController {
 		return "update" + name + "suc";
 	}
 	public String searchSpu(String name) {
+		System.out.println("after hello");
 		return "search" + name + "suc";
 	}
 	public String searchSpuV2(String name) {
