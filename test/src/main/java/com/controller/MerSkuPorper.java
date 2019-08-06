@@ -10,9 +10,7 @@ public class MerSkuPorper {
 	public String updateSkuPro(String name) {
 		return "update" + name + "suc";
 	}
-	public String searchSkuPro1(String name) {
-		return "search" + name + "suc";
-	}
+
 	public String searchSkuPro(String name) {
 		return "search" + name + "suc v2";
 	}
