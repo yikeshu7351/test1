@@ -1,3 +1,4 @@
+package com.controller;
 public class MerSkuController {
 	public String addSku(String name) {
 		return "add" + name + "suc";

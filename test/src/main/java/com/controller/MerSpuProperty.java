@@ -1,6 +1,6 @@
 package com.controller;
 
-public class MerSpuController {
+public class MerSpuProperty {
 	public String addSpuPro(String name) {
 		return "add" + name + "suc";
 	}
